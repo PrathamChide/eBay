@@ -1,0 +1,11 @@
+.navbar ul {
+  display: flex;
+  padding-left: 10vw;
+  font-size: 14px;
+}
+
+.navbar ul li {
+  list-style: none;
+  padding: 5px;
+  cursor: pointer;
+}
